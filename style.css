@@ -1,7 +1,7 @@
 body {
-    background-color:peachpuff;
-    background-size: 400% 400%;
-  
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKao1Vrb_rZTYyVKum89qXtSQtiIMO3EgUb3BJ6WSy8fvb9RXkzjoqvC-hAGtVVHs5IE0&usqp=CAU);
+    background-size:cover;
+    background-repeat: no-repeat;  
 }
 
 .btn-primary {
